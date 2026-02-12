@@ -1,5 +1,3 @@
-# Medisync
-Medical app for Hackathon
 # Hospital Patient Monitoring System - Backend
 
 A real-time patient monitoring backend for hospitals built with Node.js, Express, Socket.io, Supabase, and MongoDB.
